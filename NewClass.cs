@@ -8,6 +8,6 @@ namespace ConsoleApp8
 {
     class NewClass
     {
-
+        //hi
     }
 }
