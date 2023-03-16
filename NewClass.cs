@@ -8,6 +8,9 @@ namespace ConsoleApp8
 {
     class NewClass
     {
+       static void Main(string[] args)
+        {
 
+        }
     }
 }
