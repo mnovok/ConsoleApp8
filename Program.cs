@@ -11,7 +11,7 @@ namespace ConsoleApp8
         static void Main(string[] args)
         {
             Console.WriteLine("Novo kmet");
-            Console.WriteLine("Marija, Nina i Ivona");
+            Console.WriteLine("Marija, Nina i Ivona idu na FESB");
         }
     }
 }
